@@ -1,0 +1,24 @@
+Certa manhã o Sr. Black, o Sr. Gray e o Sr. White decidem resolver um conflito truelando com pistolas até que somente um deles fique vivo.
+
+ O Sr. Black é o pior atirador, acertando seu alvo, em média, uma vez em cada três tentativas.
+
+O Sr. Gray é um atirador melhor e acerta no alvo em dois de cada três tiros.
+
+Já o Sr. White é um atirador exímio e nunca erra o alvo.
+
+Para tornar o truelo mais justo, o Sr. Black tem a permissão de atirar primeiro, seguido pelo Sr. Gray (se ele ainda estiver vivo) e depois pelo Sr. White (também se ele ainda estiver vivo).
+
+O processo se repete até que só reste um deles.
+
+A pergunta é: Contra quem deve o Sr. Black atirar primeiro?
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vamos examinar as opções do Sr. Black. Primeiro, o Sr. Black pode atirar no Sr. Gray. Se ele acertar, então o próximo tiro será dado pelo Sr.White. O Sr. White só terá então um oponente, o Sr.Black, e como o Sr. White é um atirador perfeito, o Sr.Black será um home morto.
+A melhor opção para o Sr. Black é atirar no Sr. White. Se ele acertar, o próximo tiro será dado pelo Sr. Gray. Mas o Sr.Gray só acerta seu alvo duas vezes em cada três , e assim o Sr. Black terá uma chance de sobreviver para atirar no Sr. Gray e vencer o truelo.
+Parece que a segunda opção é a estratégia  que o Sr.Black deve adotar,contudo, existe uma terceira opção, ainda melhor. 
+O Sr. Black deve atirar no ar. O Sr. Gray  é o próximo a atirar e ela vai disparar contra o Sr. White, porque ele é o inimigo mais perigoso. Se o Sr. White sobreviver, ele vai atirar no Sr. Gray, porque  Gray é seu inimigo mais poderoso. Ao atirar no ar, o Sr. Black está permitindo que o Sr. Gray elimine o Sr. White e vice-versa.
+Esta é a melhor estratégia do Sr. Black, embora anti-intuitiva. Finalmente, o Sr.Gray e o Sr.White morrerão e então o Sr. Black poderá apontar  contra aquele que sobreviver. O Sr. Black manipulou a situação de modo que , em vez de ser o primeiro a atirar num truelo, ele passa a ser o primeiro a atirar num duelo.
+ 
+Problema retirado do livro O Último Teorema de Fermat
